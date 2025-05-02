@@ -1,5 +1,5 @@
 # Tower Defense game
-Tower defense game made in Unity.
+Tower defense game made with Unity.
 
 ## OBJECTIVE
 - Place turrets on the grass using left mouse button to prevent the enemy from entering the castle!
